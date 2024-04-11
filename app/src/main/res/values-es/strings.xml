@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DeuxiemeProjet</string>
+    <string name="hello_world">¡Hola Farida mundo!</string>
+    <string name="title_bouton_ok">Pulse y verá</string>
+    <string name="mess_after_clic_ok">¡Eh! ¡Acabas de pulsar un botón!</string>
+</resources>
